@@ -46,7 +46,7 @@ Using the Excel table provided, modified and analyze the data of 4,000 past Kick
 
   * Then created a pivot chart line graph that visualizes this new table.
 
-* Created a report in Microsoft Word and answer the following questions.
+# Created a report in Microsoft Word and answer the following questions.
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
